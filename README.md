@@ -1,7 +1,7 @@
 
-# Stock Price Prediction: ["A scikit-learn implementation"](https://scikit-learn.org/stable/) that can be used to predict stock prices.
+# Stock Price Prediction: [Regression scikit-learn](https://scikit-learn.org/stable/) implementations that can be used to predict stock prices.
 
 Technologies used include scikit-learn, Python, Google Colab/Jupyter Notebook.
 
-![alt text](screenshots/amzn.png "Amazon Stock Prediction")
+![alt text](amzn.png "Amazon Stock Prediction")
 
